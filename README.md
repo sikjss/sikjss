@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @sikjss
-- 👀 I’m interested in UBUNTU
-- 🌱 I’m currently learning UBUNTU
-- 💞️ I’m looking to collaborate on UBUNTU
-- 📫 How to reach me UBUNTU
-- 😄 Pronouns: UBUNTU
-- ⚡ Fun fact: I LOVE UBUNTU
+- 👀 I’m interested in GNU/LINUX
+- 🌱 I’m currently learning GNU/LINUX
+- 💞️ I’m looking to collaborate on PROJECTS
+- 📫 How to reach me Discord: dm for discord!
+- 😄 Pronouns: GNU/LINUX
+- ⚡ Fun fact: GNU/LINUX!
 
 <!---
 sikjss/sikjss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
